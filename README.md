@@ -1,2 +1,2 @@
 # C-Program
-This is basic c program
+I practiced a lot of C programs.
